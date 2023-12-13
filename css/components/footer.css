@@ -1,0 +1,23 @@
+.footer {
+  background: rgb(46, 45, 45);
+  text-align: center;
+  padding: 60px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 32px;
+  color: rgb(123, 194, 123);
+  opacity: 1.5;
+}
+
+
+.footer p {
+  color: rgba(255, 255, 255, 0.582);
+  margin-top: 0px;
+}
